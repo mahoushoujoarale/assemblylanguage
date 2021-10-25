@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\zj3_2\zj3_2\main.cpp(9,2): warning C4091: “typedef ”: 没有声明变量时忽略“Student”的左侧
+  zj3_2.vcxproj -> E:\zj3_2\Debug\zj3_2.exe
